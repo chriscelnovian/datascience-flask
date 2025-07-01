@@ -1,0 +1,38 @@
+=== Model Evaluation Log ===
+Timestamp: 2025-06-14 13:45:54
+
+Model: Logistic Regression
+  Accuracy : 0.8923
+  Precision: 0.9106
+  Recall   : 0.9739
+  F1 Score : 0.9412
+
+Model: Random Forest
+  Accuracy : 0.8846
+  Precision: 0.9098
+  Recall   : 0.9652
+  F1 Score : 0.9367
+
+Model: Decision Tree
+  Accuracy : 0.8462
+  Precision: 0.9130
+  Recall   : 0.9130
+  F1 Score : 0.9130
+
+Model: Support Vector Machine
+  Accuracy : 0.8923
+  Precision: 0.8976
+  Recall   : 0.9913
+  F1 Score : 0.9421
+
+Model: Naive Bayes
+  Accuracy : 0.8692
+  Precision: 0.9298
+  Recall   : 0.9217
+  F1 Score : 0.9258
+
+Best Model: Support Vector Machine
+F1 Score  : 0.9421
+Saved to  : artifacts\models\best_model_20250614_134554.pkl
+========================================
+
